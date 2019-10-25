@@ -82,6 +82,7 @@ function App() {
   return (
     <div className="App">
       <h1>Pokemon</h1>
+      <p>Gotta Catch them All!</p>
       <div>
         <Pokedex />
       </div>
